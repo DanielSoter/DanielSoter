@@ -1,7 +1,11 @@
-### Hi, I'm Daniel Soter 👋
+<img align="right" style="width: 450px; height: 450px; " src="https://github.com/danielhssouza/danielhssouza/assets/82065489/9e5eae14-1df9-4d5a-bc69-56763371843d" />
+
+### Hi there 👋, I'm Daniel Souza
+<p>I'm a passionate Full Stack Developer with a strong interest in building robust and innovative software solutions. At 25 years old, I am dedicated to continuous learning and expanding my knowledge in the ever-evolving field of technology.</p>
+</br>
 
 <!--
-**DanielSoter/DanielSoter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DanielSouza/DanielSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,16 +18,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![DanielSoter GitHub stats](https://github-readme-stats.vercel.app/api?username=danielhssouza&show_icons=true&theme=radical)
 
-## Programming Languages:
+![DanielSoter GitHub stats](https://github-readme-stats.vercel.app/api?username=danielhssouza&show_icons=true&theme=cobalt)
+
+<h3>Programming Languages:</h3>
 <div style="display: block">
   <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-## Frameworks:
+<h3>Frameworks:</h3>
 <div style="display: inline_block">
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
@@ -36,15 +41,22 @@ Here are some ideas to get you started:
   <img align="center" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </div>
 
-## Databases:
-<div style="display: inline_block"><br>
+<h3>Databases:</h3>
+<div style="display: inline_block">
+  <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-## Contact me: 
+<h3>Other Tools:</h3>
+<div style="display: inline_block">
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
+  
+</div>
+
+<h3>Contact me:</h3>
 <div> 
-  <a href = "mailto:danielsoter3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielhsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

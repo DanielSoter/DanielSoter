@@ -1,4 +1,4 @@
-<img align="right" style="width: 450px; height: 450px; " src="https://github.com/danielhssouza/danielhssouza/assets/82065489/9e5eae14-1df9-4d5a-bc69-56763371843d" />
+<img align="right" style="width: 350px; height: 350px; " src="https://github.com/danielhssouza/danielhssouza/assets/82065489/9e5eae14-1df9-4d5a-bc69-56763371843d" />
 
 ### Hi there 👋, I'm Daniel Souza
 <p>I'm a passionate Full Stack Developer with a strong interest in building robust and innovative software solutions. At 25 years old, I am dedicated to continuous learning and expanding my knowledge in the ever-evolving field of technology.</p>

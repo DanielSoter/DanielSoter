@@ -53,10 +53,4 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
   <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
-  
-</div>
-
-<h3>Contact me:</h3>
-<div> 
-  <a href="https://www.linkedin.com/in/danielhsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

@@ -1,7 +1,7 @@
 <img align="right" style="width: 350px; height: 350px; " src="https://github.com/danielhssouza/danielhssouza/assets/82065489/9e5eae14-1df9-4d5a-bc69-56763371843d" />
 
 ### Hi there 👋, I'm Daniel Souza
-<p>I am a passionate Full Stack Developer with a strong interest in building robust and innovative software solutions. At the age of 25, I am committed to continuous learning and expanding my knowledge in the ever-evolving field of technology.</p>
+<p>I am a passionate Full Stack Developer with a strong interest in building robust and innovative software solutions. At the age of 26, I am committed to continuous learning and expanding my knowledge in the ever-evolving field of technology.</p>
 </br>
 
 <!--
@@ -39,6 +39,11 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img align="center" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+</div>
+
+<h3>Libraries:</h3>
+<div style="display: inline_block">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
 <h3>Databases:</h3>
